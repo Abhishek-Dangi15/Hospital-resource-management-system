@@ -1,6 +1,6 @@
 # Ignore node_modules in Backend, Frontend-Admin, and Frontend-Patient
 /Backend/node_modules/
-/Backend/env/
+/Backend/.env/
 /Frontend-Admin/node_modules/
 /Frontend-Patient/node_modules/
 
